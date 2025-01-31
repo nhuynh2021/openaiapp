@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.pexels.com/photo/robot-pointing-on-a-wall-8386440/", caption="AI-Powered Streamlit App")
+st.image("https://www.istockphoto.com/photo/ai-artificial-intelligence-security-sentinel-password-cyber-security-ransomware-gm1998660059-560057531?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fartificial%2520intelligence%2F&utm_term=artificial+intelligence", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
