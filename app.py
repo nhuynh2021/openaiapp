@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.pngegg.com/en/png-srwir", caption="AI-Powered Streamlit App")
+st.image("https://pngtree.com/freepng/25d-artificial-intelligence-ai_5929933.html", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
