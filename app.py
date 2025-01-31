@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.istockphoto.com/photo/data-fabric-ai-artificial-intelligence-powered-analytics-data-data-verse-big-data-gm2157709105-578383868?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fartificial%2520intelligence%2F&utm_term=artificial+intelligence", caption="AI-Powered Streamlit App")
+st.image("https://www.pngegg.com/en/png-srwir", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
