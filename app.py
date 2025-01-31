@@ -1,4 +1,6 @@
 import streamlit as st
+st.image("https://your-image-url.com", caption="AI-Powered Streamlit App")
+replace "https://your-image-url.com" with an actual image URL from the internet (e.g., an AI-related image). 
 import requests
 import json
 import base64
