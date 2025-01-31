@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/AI-image.jpg/800px-AI-image.jpg", caption="AI-Powered Streamlit App")
+st.image("https://www.freepik.com/free-photo/3d-render-technology-background-with-code-male-head_1161595.htm#fromView=keyword&page=1&position=1&uuid=864b5ba4-6285-4604-bcdc-f1f459681c82&new_detail=true&query=Artificial+Intelligence", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
