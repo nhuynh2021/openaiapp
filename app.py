@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.freepik.com/free-photo/3d-render-technology-background-with-code-male-head_1161595.htm#fromView=keyword&page=1&position=1&uuid=864b5ba4-6285-4604-bcdc-f1f459681c82&new_detail=true&query=Artificial+Intelligence", caption="AI-Powered Streamlit App")
+st.image("https://www.google.com/search?q=ai+related+images&sca_esv=9a5876f960b44ea9&rlz=1C1VDKB_enUS1145US1146&sxsrf=AHTn8zrwLIZdRhJptwTjdbPyE7fc9KF_qg%3A1738301911838&ei=12GcZ9PrMriIwbkP6vmq8Q0&ved=0ahUKEwiTs96fn5-LAxU4RDABHeq8Kt4Q4dUDCBA&uact=5&oq=ai+related+images&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWFpIHJlbGF0ZWQgaW1hZ2VzMgsQABiABBiRAhiKBTIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgsQABiABBiRAhiKBTIFEAAYgAQyCxAAGIAEGJECGIoFMgUQABiABDILEAAYgAQYkQIYigVIgxRQjglYjglwAXgBkAEAmAFxoAFxqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB8wF&sclient=gws-wiz-serp#vhid=tAiHa0H1ReY2cM&vssid=_e2ScZ-_gA92JwbkPju2XkA4_38", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
